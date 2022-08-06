@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MercurrianAccel
-- 👀 I’m interested in backend development, database management and quality assurance.
-- 🌱 I’m constantly developing my Java, OOP, SQL and testing knowledge.
+- 👀 I’m interested in software development, database management and quality assurance.
+- 🌱 I’m constantly developing my Java, C#, SQL and testing knowledge.
 - 📫 Reach me through my email: elizzarazalan@gmail.com
 
 <!---
