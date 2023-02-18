@@ -5,7 +5,7 @@
 
 ## Technical Interests
 - **Java** - Learning from "Hello" to Spring. Webdev and database inclusive 
-- Next Goals: .NET (C#, ASP.NET, Entity Framework), 
+- Next Goals: .NET (C#, ASP.NET, Entity Framework)
 - Prior Experience In: PHP, R, PowerShell
 
 ## Other Interests: 
