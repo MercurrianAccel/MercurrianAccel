@@ -1,4 +1,4 @@
-# 👋 Hello, Planet! Call me Mercurry!
+# 👋 Hello, Earth! Call me Mercurry!
 
 - 👀 Interested in full-stack development, database management and quality assurance.
 - 🌱 Constant learning, constantly looking to apply what I learn!
